@@ -1,0 +1,24 @@
+Registro de alterações do dispositivo
+========================
+
+## 25/11/2026
+---
+
+* Versão inicial
+* Adicionado Game Tour
+* Adicionado Dolby (AxionOS)
+* Adicionado Xiaomi Parts
+* Formatação limpa necessária
+
+
+Device changelog
+========================
+
+## 25/11/2026
+---
+
+* Initial release
+* Added Game Tour
+* Added Dolby (AxionOS)
+* Added Xiaomi Parts
+* Clean flash required
